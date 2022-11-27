@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @indigo-tj
+- 👋 Hi, I’m Alex
 - 👀 I’m interested in coding and dancing
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on different projects
